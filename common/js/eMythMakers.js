@@ -33,16 +33,16 @@ $(document).ready(function () {
 });
 
 // banner-slider-play-button-js-here
-$('#toggle').click(function () {
-  if ($(this).hasClass('fa-pause')) {
-    $('.banner-slider').slick('slickPause')
-    $(this).removeClass('fa-pause');
-    $(this).addClass('fa-play');
-  } else {
-    $('.banner-slider').slick('slickPlay')
-    $(this).removeClass('fa-play').addClass('fa-pause')
-  }
-});
+// $('#toggle').click(function () {
+//   if ($(this).hasClass('fa-pause')) {
+//     $('.video-bg').slick('slickPause')
+//     $(this).removeClass('fa-pause');
+//     $(this).addClass('fa-play');
+//   } else {
+//     $('.video-bg').slick('slickPlay')
+//     $(this).removeClass('fa-play').addClass('fa-pause')
+//   }
+// });
 
 // back-to
 var btn = $('#button');
@@ -60,153 +60,55 @@ btn.on('click', function (e) {
   $('html, body').animate({ scrollTop: 0 }, '300');
 });
 
-// counter-js
-// $(document).ready(function ($) {
-//   function isScrolledIntoView(elem) {
-// 	var docViewTop = $(window).scrollTop();
-// 	var docViewBottom = docViewTop + $(window).height();
-// 	var elemTop = $(elem).offset().top;
-// 	var elemBottom = elemTop + $(elem).height();
-// 	return ((elemBottom <= docViewBottom));
-//   }
-//   function countUp() {
-// 	$('.counter').each(function () {
-// 	  var $this = $(this),
-// 		countTo = $this.attr('data-count');
-// 	  ended = $this.attr('ended');
-
-// 	  if (ended != "true" && isScrolledIntoView($this)) {
-// 		$({ countNum: $this.text() }).animate({
-// 		  countNum: countTo
-// 		},
-// 		  {
-// 			duration: 2500,
-// 			easing: 'swing',
-// 			step: function () {
-// 			  $this.text(Math.floor(this.countNum));
-// 			},
-// 			complete: function () {
-// 			  $this.text(this.countNum);
-// 			}
-// 		  });
-// 		$this.attr('ended', 'true');
-// 	  }
-// 	});
-//   }
-  //Start animation on page-load
-//   if (isScrolledIntoView(".counter")) {
-// 	countUp();
-//   }
-  //Start animation on screen
-//   $(document).scroll(function () {
-// 	if (isScrolledIntoView(".counter")) {
-// 	  countUp();
-// 	}
-//   });
 
 
-// hero-slider-js-here
+// Common-Product-Items-slider-js-here
 $(document).ready(function () {
-  $('.hero-slider').slick({
-	dots: true,
-	fade: true,
-	arrows: false,
+  $('.Common-Product-Items-slider').slick({
+	dots: false,
+	arrows: true,
 	infinite: true,
-	speed: 1000,
-	lazyLoad: 'ondemand',
+	speed: 100,
 	autoplay: true,
-	slidesToShow: 1,
+	prevArrow: '<span class="priv_arrow"><i class="fa-solid fa-arrow-left"></i></span>',
+	nextArrow: '<span class="next_arrow"><i class="fa-solid fa-arrow-right"></i></span>',
+	slidesToShow: 4,
 	slidesToScroll: 1,
 	responsive: [
 	  {
 		breakpoint: 1023,
 		settings: {
-		  slidesToShow: 1,
+		  slidesToShow: 4,
 		  slidesToScroll: 1,
-		  infinite: true,
+		  infinite: false,
 		  dots: true,
 		}
 	  },
 	  {
 		breakpoint: 992,
 		settings: {
-		  slidesToShow: 1,
+		  slidesToShow: 3,
 		  slidesToScroll: 1
 		}
 	  },
 	  {
 		breakpoint: 768,
 		settings: {
-		  slidesToShow: 1,
+		  slidesToShow: 2,
 		  slidesToScroll: 1
 		}
 	  },
 	  {
 		breakpoint: 600,
 		settings: {
-		  slidesToShow: 1,
+		  slidesToShow: 2,
 		  slidesToScroll: 1
 		}
 	  },
 	  {
 		breakpoint: 480,
 		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1
-		}
-	  }
-
-	]
-
-  }).slickAnimation();
-});
-
-// slider
-$(document).ready(function () {
-  $('.testimonials-slider').slick({
-	dots: true,
-	arrows: false,
-	infinite: true,
-	autoplay: true,
-	autoplaySpeed: 2000,
-	prevArrow: '<span class="priv_arrow"><i class="fas fa-chevron-left"></i></span>',
-	nextArrow: '<span class="next_arrow"><i class="fas fa-chevron-right"></i></span>',
-	slidesToShow: 1,
-	slidesToScroll: 1,
-	responsive: [
-	  {
-		breakpoint: 1023,
-		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1,
-		  infinite: false,
-		}
-	  },
-	  {
-		breakpoint: 992,
-		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1
-		}
-	  },
-	  {
-		breakpoint: 768,
-		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1
-		}
-	  },
-	  {
-		breakpoint: 600,
-		settings: {
-		  slidesToShow: 1,
-		  slidesToScroll: 1
-		}
-	  },
-	  {
-		breakpoint: 480,
-		settings: {
-		  slidesToShow: 1,
+		  slidesToShow: 2,
 		  slidesToScroll: 1
 		}
 	  }
@@ -214,7 +116,63 @@ $(document).ready(function () {
 	]
 
   });
+
 });
+
+// slider
+// $(document).ready(function () {
+//   $('.testimonials-slider').slick({
+// 	dots: true,
+// 	arrows: false,
+// 	infinite: true,
+// 	autoplay: true,
+// 	autoplaySpeed: 2000,
+// 	prevArrow: '<span class="priv_arrow"><i class="fas fa-chevron-left"></i></span>',
+// 	nextArrow: '<span class="next_arrow"><i class="fas fa-chevron-right"></i></span>',
+// 	slidesToShow: 1,
+// 	slidesToScroll: 1,
+// 	responsive: [
+// 	  {
+// 		breakpoint: 1023,
+// 		settings: {
+// 		  slidesToShow: 1,
+// 		  slidesToScroll: 1,
+// 		  infinite: false,
+// 		}
+// 	  },
+// 	  {
+// 		breakpoint: 992,
+// 		settings: {
+// 		  slidesToShow: 1,
+// 		  slidesToScroll: 1
+// 		}
+// 	  },
+// 	  {
+// 		breakpoint: 768,
+// 		settings: {
+// 		  slidesToShow: 1,
+// 		  slidesToScroll: 1
+// 		}
+// 	  },
+// 	  {
+// 		breakpoint: 600,
+// 		settings: {
+// 		  slidesToShow: 1,
+// 		  slidesToScroll: 1
+// 		}
+// 	  },
+// 	  {
+// 		breakpoint: 480,
+// 		settings: {
+// 		  slidesToShow: 1,
+// 		  slidesToScroll: 1
+// 		}
+// 	  }
+
+// 	]
+
+//   });
+// });
 
 
 

@@ -8,7 +8,6 @@
                     <div class="logoWrap">
                         <div class="FLogo">
                             <img class="img-fluid" src="<?php echo $sLogoURL;?>" alt="" title="">
-                            <p>RL-2194</p>
                         </div>
                         <div class="footer-one__bottom-list">
                             <div class="FSocialLink">

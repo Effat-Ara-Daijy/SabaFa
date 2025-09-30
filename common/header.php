@@ -257,11 +257,11 @@
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/rPEEPcDvkndfC5KYs8JnuYwxw9qJX6VaOFizmIQ5.jpg" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/WHATS_NEW_308208f9-9868-45c7-b76b-24fe3c960020_300x.webp" alt="" title="">
                                                                     <h6>Eid 2026</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/230423-82-068_4H_300x.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/D230425-139-175H_9c48c012-98d1-4133-96fb-a58703b84a06_300x.webp" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                                 <div class="items">
@@ -269,7 +269,7 @@
                                                                     <h6>Eid 2026</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/D230425-139-175H_9c48c012-98d1-4133-96fb-a58703b84a06_300x.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/M230811-52-010R1FTP_062526fa-f68c-4236-b7cc-642e672364ed_300x.webp" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                             </div>
@@ -291,37 +291,37 @@
                                                                     <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Kameez</a></li>
                                                                     <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Kaftans</a>
                                                                     </li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Angrakha</a></li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Gown</a></li>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Sherwani</a></li>
                                                                     <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Saree</a></li>
                                                                     <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Lehenga</a></li>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Sharara</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-9">
                                                             <div class="megamenu-cate-slider">
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2025.COSESCGa.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/Sabyasachi-17.07.201915533H_300x.webp" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2024.DXpSgVli.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/220225-22-277_001_1H_300x.webp" alt="" title="">
+                                                                    <h6>Eid 2026</h6>
+                                                                </div>
+                                                                 <div class="items">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/wedding-women.UZPMPvpv.jpeg" alt="" title="">
+                                                                    <h6>Eid 2025</h6>
+                                                                </div>
+                                                                <div class="items">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/wedding-men.D0oy2vEV.jpeg" alt="" title="">
                                                                     <h6>Eid 2026</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2025.COSESCGa.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/180725-24-155_1_H_300x.jpg" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2024.DXpSgVli.webp" alt="" title="">
-                                                                    <h6>Eid 2026</h6>
-                                                                </div>
-                                                                <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2025.COSESCGa.webp" alt="" title="">
-                                                                    <h6>Eid 2025</h6>
-                                                                </div>
-                                                                <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2024.DXpSgVli.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/13A7161-2-2_1_H_7541eb3c-6c42-4ef8-ac95-34c93cde431d_300x.jpg" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                             </div>
@@ -339,41 +339,40 @@
                                                         <div class="col-lg-3 border-right">
                                                             <div class="megamenu-cate-items">
                                                                 <ul>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Jacket Dress</a></li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Kameez</a></li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Kaftans</a>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">HandBags</a></li>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Sling Bags</a></li>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Clutch Bags</a>
                                                                     </li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Angrakha</a></li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Gown</a></li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Saree</a></li>
-                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Lehenga</a></li>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Bucket Bags</a></li>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Mini Bags</a></li>
+                                                                    <li><a class="dropdown-item" href="<?php echo $sSiteURL; ?>">Crossbody Bags</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-9">
                                                             <div class="megamenu-cate-slider">
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2025.COSESCGa.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/M230423-68-085_a9b4a72e-79fd-4d37-a4e7-903f6b744256_300x.webp" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2024.DXpSgVli.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/M230812-57-126XFTP_db37d380-ce5a-4bf9-ab94-fc130e2a909c_300x.webp" alt="" title="">
                                                                     <h6>Eid 2026</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2025.COSESCGa.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/M230812-69-077RFTP_3dbd919e-c1d5-4c0f-9f7f-449b1bdbd2ce_300x.webp" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2024.DXpSgVli.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/M220816-130-019_292565c9-542f-4753-9f1a-e1aa397c5062_300x.webp" alt="" title="">
                                                                     <h6>Eid 2026</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2025.COSESCGa.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/M230425-110-032_46a9616c-7f0f-44a1-b6c8-f14342ac0d01_300x.webp" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                                 <div class="items">
-                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/eid-2024.DXpSgVli.webp" alt="" title="">
+                                                                    <img class="img-fluid" src="<?php echo $sSiteURL; ?>media/imgAll/slider/M230811-52-010R1FTP_062526fa-f68c-4236-b7cc-642e672364ed_300x.webp" alt="" title="">
                                                                     <h6>Eid 2025</h6>
                                                                 </div>
                                                             </div>
